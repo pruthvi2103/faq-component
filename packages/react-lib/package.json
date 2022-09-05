@@ -1,5 +1,5 @@
 {
-  "name": "all-faq-component-react",
+  "name": "@faq-component/react",
   "version": "1.0.0",
   "main": "src/index.ts",
   "module": "src/index.ts",
@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "@vanilla-extract/css": "^1.6.8",
-    "all-faq-component": "workspace:*"
+    "@faq-component/core": "workspace:*"
   },
   "devDependencies": {
     "@types/react": "^17.0.33",
