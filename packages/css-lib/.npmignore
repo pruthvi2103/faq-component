@@ -1,0 +1,6 @@
+node_modules
+tests
+**/*.test.js
+**/*.test.jsx
+**/*.test.ts
+**/*.test.tsx
