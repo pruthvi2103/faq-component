@@ -38,19 +38,19 @@ importers:
 
   packages/react-lib:
     specifiers:
+      '@faq-component/core': workspace:*
       '@types/react': ^17.0.33
       '@types/react-dom': ^17.0.10
       '@vanilla-extract/css': ^1.6.8
       '@vitejs/plugin-react': ^1.0.7
-      all-faq-component: workspace:*
       react: ^17.0.2
       react-dom: ^17.0.2
       tsconfig: workspace:*
       typescript: ^4.5.4
       vite: ^2.8.0
     dependencies:
+      '@faq-component/core': link:../css-lib
       '@vanilla-extract/css': 1.7.3
-      all-faq-component: link:../..
     devDependencies:
       '@types/react': 17.0.49
       '@types/react-dom': 17.0.17
