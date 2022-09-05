@@ -1,11 +1,11 @@
 import React from "react";
-import { buttonClass } from "all-faq-component";
+import { detailsClass } from "@faq-component/core";
 
 export const Button: React.FunctionComponent<
   JSX.IntrinsicElements["button"]
 > = ({ children, className, ...nativeProps }) => {
   return (
-    <button {...nativeProps} className={`${buttonClass} ${className || ""}`}>
+    <button {...nativeProps} className={`${detailsClass} ${className || ""}`}>
       {children}
     </button>
   );

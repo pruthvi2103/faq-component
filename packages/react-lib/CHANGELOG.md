@@ -1,5 +1,12 @@
 # @faq-component/react
 
+## 0.0.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @faq-component/core@1.0.0
+
 ## 1.0.0
 
 ### Major Changes
