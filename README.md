@@ -28,4 +28,6 @@ Vanilla Extract as the main styling stystem.
 
 TypeScript
 
+[hover.style](https://hover.style) for Accordion :D
+
 <i>Note: this Project is still WIP. </i>
