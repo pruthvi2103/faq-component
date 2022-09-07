@@ -1,6 +1,6 @@
 {
   "name": "@faq-component/react",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "main": "src/index.ts",
   "module": "src/index.ts",
   "typings": "src/index.ts",
