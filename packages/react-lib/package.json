@@ -17,6 +17,11 @@
   "files": [
     "src"
   ],
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/pruthvi2103/faq-component.git",
+    "directory": "packages/react-lib"
+  },
   "dependencies": {
     "@faq-component/core": "workspace:*",
     "@vanilla-extract/css": "^1.6.8",
